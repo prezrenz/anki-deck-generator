@@ -1,0 +1,40 @@
+오다 - to come
+가다 - to go
+다니다 - to go
+배우다 - to learn
+알다 - to know
+모르다 - to not know
+듣다 - to listen
+읽다 - to read
+쓰다 - to write
+가르치다 - to teach
+만들다 - to make
+살다 - to live
+사다 - to buy
+쉬다 - to rest
+일어나다 - to get up
+앉다 - to sit down
+씻다 - to wash
+고르다 - to choose
+먹다 - to eat
+마시다 - to drink
+화하다 - to speak
+기야기하다 - to converse
+광부하다 - to study
+운동하다 - to exercise
+운전하다 - to drive
+전화하다 - to phone call
+세탁하다 - to do laundry
+사용하다 - to use
+설명하다 - to explain
+대답하다 - to answer
+시작하다 - to start
+계속하다 - to continue
+복습하다 - to review
+연습하다 - to practice
+요리하다 - to cook
+청소하다 - to clean
+노래하다 - to sing
+확인하다 - to check
+번역하다 - to translate
+좋아하다 - to like
